@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
-description 'QBox Loading Screen with Moving Icons and Music'
+author 'd.enchev'
+description 'Loadingscreen'
 version '1.0.0'
 
 loadscreen 'index.html'
